@@ -6,3 +6,7 @@ Cephas Brian, **Xephas** *worked on ~that~ this and its amazing*
 
 ```dart
 Finally it worked
+
+```javascript
+int x = 3;
+String c = "Cephas";
