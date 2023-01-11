@@ -5,8 +5,10 @@ Cephas Brian, **Xephas** *worked on ~that~ this and its amazing*
 ```feel free to clone it```
 
 ```dart
-Finally it worked
+Finally it worked and this is version 1 of the project reserved
 ```
+
+**Now Version 2 edits are here**
 
 ```javascript
 int x = 3;
